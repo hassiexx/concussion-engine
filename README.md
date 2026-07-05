@@ -1,7 +1,7 @@
 # Concussion Engine
 [![CircleCI](https://img.shields.io/circleci/build/github/hassieswift621/concussion-engine?logo=circleci&style=flat-square)](https://circleci.com/gh/hassieswift621/concussion-engine)
 
-Concussion Engine is a small, modular game engine written in C# and built on MonoGame that uses an Entity-Component-System (ECS) style architecture.
+Concussion Engine is a small, modular game engine written in C# and built on MonoGame that uses an Entity-Component-System (ECS) style architecture. It utilises data-oriented design to optimise CPU caching and performance.
 
 This was developed as part of undergrad dissertation.
 
